@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "prettier": "3.6.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorisgiglio/progetto-minimale-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lorisgiglio/progetto-minimale-server/issues"
+  },
+  "homepage": "https://github.com/lorisgiglio/progetto-minimale-server#readme"
 }
